@@ -28,7 +28,7 @@ The project demonstrates key <b>SQL concepts</b> such as:
   The Entity Relationship Diagram (ERD) shows how all tables are connected.
 </p>
 <p align="center">
-  <img src="screenshots/ER_Diagram_SalesManagement.png" alt="ER Diagram" width="700">
+  <img src="ER_Diagram_SalesManagement.png" alt="ER Diagram" width="700">
 </p>
 
 <hr>
